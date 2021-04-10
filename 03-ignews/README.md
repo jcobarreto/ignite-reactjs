@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="ignews" src="https://github.com/gisabernardess/ignite-reactjs/blob/main/03-ignews/.github/ignews.png">
+  <img alt="ignews" src="https://github.com/jcobarreto/ignite-reactjs/blob/main/03-ignews/.github/ignews.png">
 </p>
 
 ## 💬 Project
@@ -42,7 +42,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [Y
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/gisabernardess/ignite-reactjs.git
+$ git clone https://github.com/jcobarreto/ignite-reactjs.git
 
 # Go into the directory
 $ cd 03-ignews

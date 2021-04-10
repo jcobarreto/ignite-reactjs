@@ -35,7 +35,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [Y
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/gisabernardess/ignite-reactjs.git
+$ git clone https://github.com/jcobarreto/ignite-reactjs.git
 
 # Go into the directory
 $ cd 04-dashgo

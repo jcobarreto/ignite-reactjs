@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#-the-journey">The Journey</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about-ignite">About Ignite</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-modules">Modules</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-license">License</a>
@@ -19,7 +19,7 @@
 
 <br/>
 
-## 💻 The Journey
+## 💻 About Ignite
 
 [Ignite](https://pages.rocketseat.com.br/ignite) is an acceleration program for developers by [Rocketseat](https://rocketseat.com.br/), focused on preparing complete professionals for the market, training technical and soft skills in an intensive and practical way.
 

@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="dtmoney" src="https://github.com/gisabernardess/ignite-reactjs/blob/main/02-dtmoney/.github/dtmoney.png">
+  <img alt="dtmoney" src="https://github.com/jcobarreto/ignite-reactjs/blob/main/02-dtmoney/.github/dtmoney.png">
 </p>
 
 ## 💬 Project
@@ -39,7 +39,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [Y
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/gisabernardess/ignite-reactjs.git
+$ git clone https://github.com/jcobarreto/ignite-reactjs.git
 
 # Go into the directory
 $ cd 02-dtmoney

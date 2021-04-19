@@ -20,7 +20,7 @@ export function Input({ name, label, ...rest }: InputProps) {
         id={name}
         type="email"
         focusBorderColor="pink.500"
-        bgcolor="gray.900"
+        bgColor="gray.900"
         variant="filled"
         _hover={{
           bgColor: "gray.900",

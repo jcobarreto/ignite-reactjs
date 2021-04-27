@@ -47,9 +47,9 @@ $ yarn dev
 # The app will automatically reload if you change any of the source files.
 
 # Some routes available
-`http://localhost:3000`
-`http://localhost:3000/dashboard`
-`http://localhost:3000/users`
-`http://localhost:3000/users/create`
+http://localhost:3000
+http://localhost:3000/dashboard
+http://localhost:3000/users
+http://localhost:3000/users/create
 
 ```
